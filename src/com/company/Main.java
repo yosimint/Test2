@@ -21,4 +21,6 @@ class Main {
     public class Shesti extends Figure{}
     public class Oval extends Figure{}
     public class Okrug extends Figure{}
+    // all of it looks like shit
+    // i want to delete it
 }
